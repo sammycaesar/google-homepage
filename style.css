@@ -1,0 +1,16 @@
+:root {
+    --background-colour: #FFFFFF;
+    --navigation-font: #4C4C4C;
+    --button-background: #F8F9FA;
+    --button-font: #3C4043;
+    --footer-background: #F2F2F2;
+    --footer-font: #909497;
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
