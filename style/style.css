@@ -1,3 +1,5 @@
+/* OVERALL CUSTOMSIATIONS */
+
 :root {
     --background-colour: #FFFFFF;
     --navigation-font: #4C4C4C;
@@ -45,7 +47,6 @@ input {
   align-items: center;
   padding: 6px;
   justify-content: flex-end;
-
 }
 
 .nav-link {
@@ -61,7 +62,7 @@ input {
 }
 
 .menu {
-  background-image: url(/images/menu.svg);
+  background-image: url("/images/menu.svg");
   opacity: 0.60;
   width: 24px;
   height: 24px;
@@ -70,7 +71,6 @@ input {
   background-color: var(--background-colour);
   cursor: pointer;
   display: inline-block;
-  
 }
 
 .sign-in {
@@ -174,7 +174,6 @@ input {
     background-color: #f8f8f8;
     border: 1px solid #c6c6c694;
     color: #222;
-    
 }
 
 .footer {
